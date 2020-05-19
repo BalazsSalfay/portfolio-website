@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello there, my name is',
   name: 'Balazs Salfay',
-  subtitle: "I'm a Front End Developer",
+  subtitle: "I'm a Frontend Developer",
   cta: '',
 };
 
@@ -34,21 +34,22 @@ export const projectsData = [
     img: 'e-commerce.jpg',
     title: 'BS Prints',
     info:
-      'A simple project that mimicing my not - yet - exsiting photography prints selling ecommerce webstore.',
+      'A simple project that mimicing my not - yet - exsiting photography prints selling e-commerce webstore.',
     info2: 'Tecnologies: ReactJS, Redux, Git, Heroku, Firebase, Stripe',
     url: 'https://bs-prints.herokuapp.com/',
+    repo: 'https://github.com/BalazsSalfay/bs-prints-webstore', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'PLANet.jpg',
+    title: 'PLANet',
+    info:
+      'Task and homework planning application with MS Teams integration to support the communication between teachers, kids and their parents during online school.',
+    info2: 'Tecnologies: ReactJS, MeteorJS, MongoDB, Git, Heroku, Context API',
+    url: 'https://planet-proto-test.herokuapp.com/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   /* {
-    id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
     id: uuidv1(),
     img: 'project.jpg',
     title: '',
