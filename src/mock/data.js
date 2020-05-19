@@ -47,7 +47,7 @@ export const projectsData = [
       'Task and homework planning application with MS Teams integration to support the communication between teachers, kids and their parents during online school.',
     info2: 'Tecnologies: ReactJS, MeteorJS, MongoDB, Git, Heroku, Context API',
     url: 'https://planet-proto-test.herokuapp.com/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/BalazsSalfay/planet', // if no repo, the button will not show up
   },
   /* {
     id: uuidv1(),
