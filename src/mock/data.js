@@ -49,15 +49,15 @@ export const projectsData = [
     url: 'https://planet-proto-test.herokuapp.com/',
     repo: 'https://github.com/BalazsSalfay/planet', // if no repo, the button will not show up
   },
-  /* {
+  {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  }, */
+    img: 'facereco.jpg',
+    title: 'FaceReco',
+    info: 'Very simple web app with image face recognition API and basic user handling.',
+    info2: 'Tecnologies: ReactJS, Express, PostgreSQL, Git, Heroku, Clarifai',
+    url: 'https://facereco-client.herokuapp.com/',
+    repo: 'https://github.com/BalazsSalfay/facereco-client', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
