@@ -24,7 +24,7 @@ export const aboutData = {
     'Committed team worker, proactive person with a strong desire to develop new skills.',
   paragraphThree:
     'Dived into ReactJS and eager to continue the exploration with a forward-moving company.',
-  resume: 'https://drive.google.com/open?id=1J_5zXizYtR-GnFPqkEbe4OZeu0BXXOEs', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/14eF_LSjhO0qMmNDy64HVFEAhJE60aNvB/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
