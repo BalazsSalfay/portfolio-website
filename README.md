@@ -1,1 +1,1 @@
-Portfoliö website for my projects
+Portfolio website for my projects
