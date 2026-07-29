@@ -1,10 +1,15 @@
 module.exports = {
   plugins: [
-    `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: { 
+        implementation: require(`sass`) 
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
