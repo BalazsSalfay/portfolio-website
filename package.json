@@ -38,7 +38,8 @@
   "overrides": {
     "gatsby-plugin-sass": {
     "node-sass": "npm:sass@^1.77.0"
-    }
+    },
+    "undici": "^5.28.5"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
